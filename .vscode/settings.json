@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 18,
+  "editor.fontFamily": "D2Coding,Consolas, 'Courier New', monospace",
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "editor.formatOnSave": true
+}
